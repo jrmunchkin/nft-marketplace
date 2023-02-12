@@ -1,0 +1,40 @@
+{
+    "name": "Azazel (Rare)",
+    "description": "Tears is power!",
+    "image": "",
+    "attributes": [
+      {
+        "trait_type": "Item", 
+        "value": "Brimstone"
+      },
+      {
+        "trait_type": "Damage",
+        "value": 3.5
+      },
+      {
+        "trait_type": "Tears",
+        "value": 0.5
+      },
+      {
+        "trait_type": "Shot speed",
+        "value": 1
+      },
+      {
+        "trait_type": "Range",
+        "value": 4.5
+      },
+      {
+        "trait_type": "Speed",
+        "value": 1.25
+      },
+      {
+        "trait_type": "Luck",
+        "value": 0
+      },
+      {
+        "display_type": "number", 
+        "trait_type": "Heart", 
+        "value": 3
+      }
+    ]
+}
