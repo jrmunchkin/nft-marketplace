@@ -1,6 +1,6 @@
 # NFT Marketplace contract (SOLIDITY)
 
-**This is the SOLIDITY version of the repository**
+**This is the SOLIDITY version of the repository, you also can find a [VYPER version](https://github.com/jrmunchkin/nft-marketplace-vyper)**
 
 This is a repository to work with and create a NFT Marketplace in a javascript environment using hardhat.
 This is a backend repository, it also work with a [frontend repository](https://github.com/jrmunchkin/nft-marketplace-front-end). However you absolutly can use this repository without the frontend part.
